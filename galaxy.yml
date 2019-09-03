@@ -1,0 +1,21 @@
+namespace: "vmware"
+name: "VMware REST API"
+version: "0.0.1"
+readme: "README.md"
+authors:
+    - "Paul Knight <paul.knight@delaware.gov>"
+    - "Abhijeet Kasurde <akasurde@redhat.com>"
+description:
+    - Modules that utilize VMware's REST API, and do not rely
+      on Pyvmomi or the Managed Object Browser.
+license:
+    - "GPL-3.0-or-later"
+tags:
+    - cloud
+    - vmware
+    - rest
+    - collection
+repository: "https://www.github.com/n3pjk/vmware-ansible"
+documentation: "https://www.github.com/n3pjk/vmware-ansible/wiki"
+homepage: "https://www.github.com/n3pjk/vmware-ansible"
+issues: "https://www.github.com/n3pjk/vmware-ansible/issues"
