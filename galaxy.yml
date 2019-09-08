@@ -1,5 +1,5 @@
-namespace: "vmware"
-name: "VMware REST API"
+namespace: "n3pjk"
+name: "vmware"
 version: "0.0.1"
 readme: "README.md"
 authors:
@@ -14,6 +14,7 @@ tags:
     - cloud
     - vmware
     - rest
+    - httpapi
     - collection
 repository: "https://www.github.com/n3pjk/vmware-ansible"
 documentation: "https://www.github.com/n3pjk/vmware-ansible/wiki"
